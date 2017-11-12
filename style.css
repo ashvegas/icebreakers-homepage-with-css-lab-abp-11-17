@@ -36,9 +36,10 @@ nav a:hover{
   color: #0056b3
 }
 
-#### `nav a:hover`
-
-Give the nav links a hover state with a text decoration of an underline and a color of `#0056b3`.
+#header h3{
+  float: left;
+  font-size: 30px;  
+}
 
 #### `h3#header`
 
