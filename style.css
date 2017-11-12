@@ -24,3 +24,21 @@ nav ul li{
   display: inline;
   margin-right: 10px;
 }
+
+nav a{
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px:
+}
+
+#### `nav a`
+
+Make the links in the navigation have [no underline](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) a color of `#007bff` and a font size of `18px`.
+
+#### `nav a:hover`
+
+Give the nav links a hover state with a text decoration of an underline and a color of `#0056b3`.
+
+#### `h3#header`
+
+Float the `h3` with an `id` of `header` to the left and make its font size `30px`.
