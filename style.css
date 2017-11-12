@@ -41,6 +41,7 @@ h3#header{
   font-size: 30px;
 }
 
-#### `h3#header`
-
-Float the `h3` with an `id` of `header` to the left and make its font size `30px`.
+#header a{
+  text-decoration: none;
+  color: #868e96;
+}
