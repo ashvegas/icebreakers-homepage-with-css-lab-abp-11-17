@@ -31,9 +31,10 @@ nav a{
   font-size: 18px:
 }
 
-#### `nav a`
-
-Make the links in the navigation have [no underline](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) a color of `#007bff` and a font size of `18px`.
+nav a:hover{
+  text-decoration: underline;
+  color: #0056b3
+}
 
 #### `nav a:hover`
 
